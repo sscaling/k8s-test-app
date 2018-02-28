@@ -9,6 +9,14 @@ Kubernetes test app
 
 Playground app for testing/hacking with various k8s features.
 
+Pre-requisites
+--------------
+
+```
+brew install dep
+dep ensure
+```
+
 Building
 --------
 
